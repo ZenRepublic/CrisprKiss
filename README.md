@@ -13,4 +13,13 @@ Crispr are angry and spiky, so be very careful not to touch them. Survive for as
 - Solana Unity SDK by Magicblock for wallet auth
 - Playfab for leaderboard (i know its super web2 please don't judge)
 
+**GAME LINKS**
+
+WebGL app: https://zenrepublic.github.io/CrisprKiss/
+xNFT app: https://www.xnft.gg/app/29Q92Tw9g9mbasSoS1hUi9z4QpbYmDSwZYbfhr6SxnQ1
+
+
+**SUBMISSION VIDEO**
+
+watch now: https://youtu.be/gQlh1D5sXaA
 
